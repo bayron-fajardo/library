@@ -1,0 +1,2 @@
+Nombre: Alice, Telefono: 123456789, Email: alice@example.com, Prestamo Activo: false, Fecha prestamos: null
+Nombre: Bob, Telefono: 987654321, Email: bob@example.com, Prestamo Activo: true, Fecha prestamos: 2024-05-24

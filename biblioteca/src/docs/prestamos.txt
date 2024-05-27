@@ -1,0 +1,1 @@
+Libro prestado: title3, Persona: Bob, Fecha de préstamo: 2024-05-24

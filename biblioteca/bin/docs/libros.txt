@@ -1,0 +1,3 @@
+Titulo: title1, Autor: author1, Año: 2023, Unidades: 5
+Titulo: title2, Autor: author2, Año: 2024, Unidades: 3
+Titulo: title3, Autor: author3, Año: 2025, Unidades: 1
